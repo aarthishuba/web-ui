@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import Welcome from './components/Welcome';
-import OilLists from './components/OilLists';
+//import OilLists from './components/OilLists';
 import APIList from './components/APIList';
 
 class App extends Component {

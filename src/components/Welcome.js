@@ -114,7 +114,7 @@ class Welcome extends Component {
               </div>
               <div className="card-action">
                   <div className="input-field col m12">
-                      <a href="#">Submit</a>
+                      <a>Submit</a>
                    </div>
                </div>
           </div>
