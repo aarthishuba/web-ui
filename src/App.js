@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import Welcome from './components/Welcome';
 import OilLists from './components/OilLists';
+import APIList from './components/APIList';
+
 class App extends Component {
   render() {
     return (
@@ -18,7 +20,7 @@ class App extends Component {
       </div>
       
        <div className="col m6 s12">
-      <OilLists />
+        <APIList name="Oil List"/>
 
       </div>
       
